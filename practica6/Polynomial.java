@@ -201,6 +201,7 @@ public class Polynomial {
     /**
     * Metodo que devuelve el grado de un polinomio 
     * @return grado del polinomio
+    * @Deprecated Este mtodo no se utiliza.
     */
     public int getDegree(){
         return degree;
@@ -209,6 +210,7 @@ public class Polynomial {
     /**
     * Metodo que devuelve el valor con el que se va a evaluar un polinomio 
     * @return valor con el que se va a evaluar el polinomio
+    * @Deprecated Este metodo no se utiliza.
     */
     public int getValue(){
         return value;
@@ -240,7 +242,8 @@ public class Polynomial {
 
     /**
     * Envio del grado para un polinomio
-    @param degree grado del polinomio
+    * @param degree grado del polinomio
+    * @Deprecated Este metodo no se utiliza.
     */
     public void setDegree(int degree){
         this.degree = degree;
@@ -249,6 +252,7 @@ public class Polynomial {
     /**
     * Envio del valor con el que se va a evaluar un polinomio
     * @param value valor por el que se va a evaluar a un polinomio
+    * @Deprecated Este metodo no se utiliza.
     */
     public void setValue(int value){
         this.value = value;
