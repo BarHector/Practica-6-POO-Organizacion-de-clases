@@ -14,4 +14,4 @@ Se incluyen los archivos de texto, se incluyen todos los .java, .class, .jar, .z
 
 NOTAS
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Para ver la documentación de la clase Polynomial.java es necesario ir a la carpeta Práctica6/Documentacion y buscamos el archivo index.html
+Para ver la documentación de la clase Polynomial.java es necesario ir a la carpeta practica6/Documentacion y buscamos el archivo index.html
