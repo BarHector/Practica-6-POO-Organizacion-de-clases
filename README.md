@@ -10,7 +10,7 @@ En esta práctica se ve el desarrollo comando 'package', asi como de documentaci
 
 ARCHIVOS INCLUIDOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Se incluyen los archivos de texto, se incluyen todos los .java, .class, .jar, .zip y .html utilizados y entregados, así como del manual de la práctica.
+Se incluyen los .txt (para las pruebas), .java, .class, .jar, .zip y .html utilizados y entregados, así como del manual de la práctica.
 
 NOTAS
 --------------------------------------------------------------------------------------------------------------------------------------------------------
